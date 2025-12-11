@@ -143,5 +143,3 @@ I’m looking for **internship or entry-level opportunities** where I can:
 
 ---
 
-> 🔥 *Designed by merging your GitHub identity + resume + portfolio content for a professional README.*
-
