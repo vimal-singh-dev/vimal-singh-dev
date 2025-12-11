@@ -113,12 +113,7 @@ I’m looking for **internship or entry-level opportunities** where I can:
 ![](https://nirzak-streak-stats.vercel.app/?user=King-H-R&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=King-H-R&theme=dark&hide_border=false&layout=compact)
 
----
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=King-H-R&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
