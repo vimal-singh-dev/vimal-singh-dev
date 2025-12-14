@@ -1,8 +1,9 @@
 <!-- ================= ANIMATED CYBERPUNK HEADER ================= -->
-
-<p align="center">
-  <img src="assets/cyberpunk-banner.svg" width="100%" />
-</p>
+<!--
+  <p align="center">
+    <img src="assets/cyberpunk-banner.svg" width="100%" />
+  </p>
+--!>
 
 <p align="center">
   <img src="assets/typing.svg" width="100%" />
