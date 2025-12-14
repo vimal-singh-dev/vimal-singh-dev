@@ -108,8 +108,4 @@ Seeking **internship or entry-level opportunities** where I can:
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vimal-singh-dev&icon=0&color=0"/>
-</p>
-
 <!-- ================= END README ================= -->
