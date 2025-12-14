@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <defs>
+    <linearGradient id="waveGrad">
+      <stop offset="0%" stop-color="#00D4FF">
+        <animate attributeName="stop-color"
+          values="#00D4FF;#7F5AF0;#00D4FF"
+          dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7F5AF0">
+        <animate attributeName="stop-color"
+          values="#7F5AF0;#00D4FF;#7F5AF0"
+          dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="450" y="70" text-anchor="middle"
+        font-size="36"
+        font-weight="800"
+        fill="url(#waveGrad)"
+        font-family="Segoe UI, sans-serif">
+    B.Tech IT Student | Tech Enthusiast
+    <animateTransform type="translate"
+      from="-3 0" to="3 0"
+      dur="0.15s"
+      repeatCount="indefinite"
+      direction="alternate"/>
+  </text>
+</svg>

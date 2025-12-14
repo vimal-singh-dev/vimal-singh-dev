@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+  <text x="450" y="60" text-anchor="middle"
+        font-size="40"
+        font-weight="700"
+        fill="#7F5AF0"
+        font-family="Segoe UI, Ubuntu, sans-serif">
+    Hi 👋 I'm Vimal Singh
+    <animate attributeName="opacity"
+      values="0;1;1;0"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </text>
+</svg>
