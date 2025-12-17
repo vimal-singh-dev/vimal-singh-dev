@@ -80,6 +80,9 @@ A security-focused group project for safe and irreversible data deletion.
 ## 📜 Certification
 
 - 🏅 **AWS – Solutions Architecture Job Simulation** (Forage)
+- 🏅 ** DevOps - DevOps Pre-requisite Course**
+(KodeKloud)
+
 
 ---
 
